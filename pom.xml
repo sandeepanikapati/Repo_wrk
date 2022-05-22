@@ -7,7 +7,7 @@
   <version>1.2.3</version>
   <packaging>jar</packaging>
 
-  <name>Simple Maven example</name>
+  <name>Simple Maven example 1</name>
   <url>https://jitpack.io/#jitpack/maven-simple/0.1</url>
 	<properties>
         <maven.compiler.source>1.8</maven.compiler.source>
